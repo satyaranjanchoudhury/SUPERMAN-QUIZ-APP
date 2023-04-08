@@ -7,15 +7,15 @@ var score = 0;
 
 var highScores = [
    {
-    name: "Yash",
+    name: "karishma",
     score: 39,
   },
   {
-    name: "Vedant",
+    name: "kuna",
     score: 32,
   },
   {
-    name: "Tony Stark",
+    name: "sonu",
     score: 30,
   },
 ]
